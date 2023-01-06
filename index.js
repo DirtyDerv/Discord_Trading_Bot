@@ -1,4 +1,4 @@
-const MOngoDB_cluster = "XXXXXXXXXXXXXXXXXXXX YOUR MONGO-DB ACCOUNT XXXXXXXXXXXXXXXXXXXX"
+const MOngoDB_cluster = "mongodb+srv://cluster0.hm4wkwi.mongodb.net/myFirstDatabase"
 const Discord_tocken =  '1060921773740281906'
 const Discord_Channel_Id = '1060917526927781930'
 
