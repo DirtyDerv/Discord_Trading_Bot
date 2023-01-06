@@ -1,6 +1,6 @@
 const MOngoDB_cluster = "XXXXXXXXXXXXXXXXXXXX YOUR MONGO-DB ACCOUNT XXXXXXXXXXXXXXXXXXXX"
-const Discord_tocken =  'XXXXXXXXXXXXXXXXXXXXXXX YOUR DISCORD TOKEN XXXXXXXXXXXXXXXXXXXX'
-const Discord_Channel_Id = 'xxxxxxxxxxxxxxxxx YOUR DISCORD CHANNEL ID xxxxxxxxxxxxxxxxxx'
+const Discord_tocken =  '1060921773740281906'
+const Discord_Channel_Id = '1060917526927781930'
 
 
 
